@@ -12,7 +12,7 @@ Status: Actively Building The Future
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/~/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sujansanjeev)
+  [![LinkedIn](https://img.shields.io/badge/~/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sujan-sanjeev-d)
   [![Portfolio](https://img.shields.io/badge/~/Portfolio-%2523000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://sujansanjeev.netlify.app)
   [![Email](https://img.shields.io/badge/~/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujan21110114@snuchennai.edu.in)
   
