@@ -9,8 +9,7 @@
 <br/>
 
 <div align="center">
-  
-  ```javascript
+
   const sujan = {
     title: "IoT & AI/ML Engineer",
     education: "B.Tech CSE (IoT) @ Shiv Nadar University",
@@ -23,7 +22,7 @@
       domains: ["Computer Vision", "NLP", "IoT"]
     }
   };
-  ```
+ 
   
 </div>
 
@@ -53,17 +52,6 @@
     </td>
   </tr>
 </table>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFA500&icon_color=FFA500" />
-  </a>
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFA500&icon_color=FFA500" />
-  </a>
-</div>
 
 ## 💡 Skills Matrix
 
@@ -145,13 +133,13 @@ mindmap
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sujansanjeev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sujan21110114@snuchennai.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://sujansanjeev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
