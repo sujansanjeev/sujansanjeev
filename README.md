@@ -1,151 +1,226 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+I'm+Sujan+Sanjeev+D+%F0%9F%91%8B;Building+the+Future+with+Tech+%F0%9F%9A%80;IoT+%2B+AI%2FML+%2B+Full+Stack+%F0%9F%A4%96;Turning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
-</h1>
-
+<!-- Header Wave Animation -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujansanjeev&theme=dark&hide_border=true&background=0D1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Sujan%20Sanjeev%20D&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IoT%20|%20AI/ML%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+</div>
+
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF8000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Building+Smart+Systems+%F0%9F%A4%96;Transforming+Ideas+into+Reality+%F0%9F%9A%80;Innovation+through+Technology+%E2%9A%A1" />
 </div>
 
 <br/>
 
+<!-- Matrix Animation -->
 <div align="center">
-
-  const sujan = {
-    title: "IoT & AI/ML Engineer",
-    education: "B.Tech CSE (IoT) @ Shiv Nadar University",
-    location: "Chennai, India",
-    code: ["Python", "JavaScript", "C++", "SQL"],
-    interests: ["Autonomous Systems", "Deep Learning", "Robotics"],
-    currentlyWorking: {
-      focus: "Advanced AI/ML Applications",
-      tools: ["ROS", "Transformers", "MediaPipe"],
-      domains: ["Computer Vision", "NLP", "IoT"]
-    }
-  };
- 
-  
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 </div>
 
-## 🎯 Expertise Zones
+<!-- Profile Code Block -->
+```javascript
+class SujanSanjeev {
+    constructor() {
+        this.name = "Sujan Sanjeev D";
+        this.role = "IoT & AI/ML Engineer";
+        this.education = {
+            degree: "B.Tech CSE (IoT)",
+            university: "Shiv Nadar University",
+            location: "Chennai"
+        };
+        this.experience = [
+            "Former SWE Intern @ Gorilla Technology",
+            "Former SWE Intern @ Tata Communications"
+        ];
+        this.skills = new Set([
+            "🤖 Autonomous Systems",
+            "🧠 Deep Learning",
+            "🌐 Full Stack Development",
+            "🔗 Blockchain",
+            "☁️ Cloud Computing"
+        ]);
+    }
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS" />
-      <br>ROS
-    </td>
-  </tr>
-</table>
+    getCurrentFocus() {
+        return [
+            "Building Advanced AI Applications",
+            "Developing Autonomous Robots",
+            "Creating Scalable IoT Solutions"
+        ];
+    }
+}
+```
 
-## 💡 Skills Matrix
+<!-- Snake Animation Workflow File (save as .github/workflows/snake.yml) -->
+```yaml
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: sujansanjeev
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<!-- Tech Stack Icons -->
+<div align="center">
+  <h2>💻 Technical Proficiency</h2>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,ros,tensorflow,react,nodejs,docker,git&perline=3&theme=dark" />
+</div>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujansanjeev&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&ring_color=FF8000&icon_color=FF8000"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujansanjeev&theme=radical&background=0D1117&hide_border=true&ring=FF8000&fire=FF8000"/>
+</p>
+
+<!-- 3D Contribution Calendar Workflow File (save as .github/workflows/profile-3d.yml) -->
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
+```
+
+<!-- Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF8000&title_color=FF8000"/>
+  </a>
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF8000&title_color=FF8000"/>
+  </a>
+</div>
+
+<!-- Skills Mindmap -->
 ```mermaid
 mindmap
-  root((Tech Stack))
+  root((Technical Universe))
     IoT & Robotics
-      ROS
-      MQTT
-      Autonomous Systems
-      Sensor Integration
-    AI/ML
-      Computer Vision
-      NLP
+      ROS/ROS2
+      Arduino
+      Raspberry Pi
+      Sensor Networks
+      AMR Systems
+    AI & ML
       Deep Learning
-      MediaPipe
+        PyTorch
+        TensorFlow
+      Computer Vision
+        OpenCV
+        MediaPipe
+      NLP
+        Transformers
+        LangChain
     Full Stack
       Frontend
         React
         Angular
-        Framer Motion
+        Next.js
       Backend
         Node.js
         Flask
-        REST APIs
-    DevOps
+        FastAPI
+      Database
+        MongoDB
+        PostgreSQL
+    DevOps & Cloud
       Docker
-      Git
-      Linux
+      Kubernetes
+      AWS
+      Azure
 ```
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujansanjeev&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&line=FFA500&point=FFFFFF&title_color=FFFFFF&area=true&area_color=FFA500" />
-</div>
-
-## 🎓 Latest Certifications & Achievements
+<!-- Certifications Section -->
+<h2 align="center">🏆 Certifications & Achievements</h2>
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img width="70" src="https://img.icons8.com/color/96/000000/google-logo.png" alt="Google"/>
-        <br />
+        <a href="#"><img src="https://img.icons8.com/clouds/100/000000/google-logo.png"/></a>
+        <br/>
         Google Cybersecurity
-        <br />
+        <br/>
         Professional Certificate
       </td>
       <td align="center">
-        <img width="70" src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI"/>
-        <br />
+        <a href="#"><img src="https://img.icons8.com/clouds/100/000000/brain.png"/></a>
+        <br/>
         Generative AI Foundations
-        <br />
+        <br/>
         DeepLearning.AI
       </td>
     </tr>
   </table>
 </div>
 
-## 🎵 When Not Coding
-
+<!-- Interests Section -->
+<h2 align="center">🎯 Beyond The Code</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="64" src="https://img.icons8.com/color/96/000000/piano.png" alt="Piano"/>
-        <br />
-        Piano Composer
-      </td>
-      <td align="center">
-        <img width="64" src="https://img.icons8.com/color/96/000000/tennis.png" alt="Tennis"/>
-        <br />
-        Tennis Player
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🎹%20Piano-Composer-FF8000?style=for-the-badge&labelColor=black"/>
+  <img src="https://img.shields.io/badge/🎾%20Tennis-Player-FF8000?style=for-the-badge&labelColor=black"/>
+  <img src="https://img.shields.io/badge/🤖%20Robotics-Enthusiast-FF8000?style=for-the-badge&labelColor=black"/>
 </div>
 
-## 📫 Let's Connect!
-
+<!-- Social Links -->
+<h2 align="center">🤝 Let's Connect!</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sujansanjeev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="mailto:sujan21110114@snuchennai.edu.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
   </a>
-  <a href="https://sujansanjeev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a>
 </div>
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&fontSize=50&animation=fadeIn"/>
+
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujansanjeev&color=FFA500&style=flat-square&label=Profile+Views" />
+  <img src="https://profile-counter.glitch.me/sujansanjeev/count.svg" alt="Visitor Count"/>
 </div>
-
-<h3 align="center">🚀 Watch this space for more exciting projects! 🚀</h3>
