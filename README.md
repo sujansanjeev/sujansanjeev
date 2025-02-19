@@ -1,226 +1,79 @@
-<!-- Header Wave Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Sujan+Sanjeev+D;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 IoT Enthusiast | Full Stack Developer | AI/ML Engineer</h3>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Sujan%20Sanjeev%20D&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IoT%20|%20AI/ML%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujan21110114@snuchennai.edu.in)
+  
 </div>
 
-<!-- Dynamic Typing Animation -->
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF8000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Building+Smart+Systems+%F0%9F%A4%96;Transforming+Ideas+into+Reality+%F0%9F%9A%80;Innovation+through+Technology+%E2%9A%A1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-<br/>
+<h2 align="center">⚡ Technology Arsenal ⚡</h2>
 
-<!-- Matrix Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+  
+  ### 💻 Programming & Development
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+  ### 🌐 Web Technologies
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+  ### 🗄️ Databases
+  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  ### 🤖 AI & Machine Learning
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+  
+  ### 🛠 DevOps & Tools
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ### 💽 Operating Systems
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  
 </div>
 
-<!-- Profile Code Block -->
-```javascript
-class SujanSanjeev {
-    constructor() {
-        this.name = "Sujan Sanjeev D";
-        this.role = "IoT & AI/ML Engineer";
-        this.education = {
-            degree: "B.Tech CSE (IoT)",
-            university: "Shiv Nadar University",
-            location: "Chennai"
-        };
-        this.experience = [
-            "Former SWE Intern @ Gorilla Technology",
-            "Former SWE Intern @ Tata Communications"
-        ];
-        this.skills = new Set([
-            "🤖 Autonomous Systems",
-            "🧠 Deep Learning",
-            "🌐 Full Stack Development",
-            "🔗 Blockchain",
-            "☁️ Cloud Computing"
-        ]);
-    }
-
-    getCurrentFocus() {
-        return [
-            "Building Advanced AI Applications",
-            "Developing Autonomous Robots",
-            "Creating Scalable IoT Solutions"
-        ];
-    }
-}
-```
-
-<!-- Snake Animation Workflow File (save as .github/workflows/snake.yml) -->
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: sujansanjeev
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<!-- Tech Stack Icons -->
+<br>
+
 <div align="center">
-  <h2>💻 Technical Proficiency</h2>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,ros,tensorflow,react,nodejs,docker,git&perline=3&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- GitHub Stats -->
+---
+
+<h3 align="center">🎵 When not coding, you'll find me...</h3>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujansanjeev&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&ring_color=FF8000&icon_color=FF8000"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujansanjeev&theme=radical&background=0D1117&hide_border=true&ring=FF8000&fire=FF8000"/>
+  🎹 Composing Music | 🎾 Playing Tennis | 🎼 Orchestrating
 </p>
 
-<!-- 3D Contribution Calendar Workflow File (save as .github/workflows/profile-3d.yml) -->
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
-```
-
-<!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF8000&title_color=FF8000"/>
-  </a>
-  <a href="YOUR_PROJECT_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujansanjeev&repo=YOUR_REPO_NAME&theme=radical&bg_color=0D1117&hide_border=true&icon_color=FF8000&title_color=FF8000"/>
-  </a>
-</div>
-
-<!-- Skills Mindmap -->
-```mermaid
-mindmap
-  root((Technical Universe))
-    IoT & Robotics
-      ROS/ROS2
-      Arduino
-      Raspberry Pi
-      Sensor Networks
-      AMR Systems
-    AI & ML
-      Deep Learning
-        PyTorch
-        TensorFlow
-      Computer Vision
-        OpenCV
-        MediaPipe
-      NLP
-        Transformers
-        LangChain
-    Full Stack
-      Frontend
-        React
-        Angular
-        Next.js
-      Backend
-        Node.js
-        Flask
-        FastAPI
-      Database
-        MongoDB
-        PostgreSQL
-    DevOps & Cloud
-      Docker
-      Kubernetes
-      AWS
-      Azure
-```
-
-<!-- Certifications Section -->
-<h2 align="center">🏆 Certifications & Achievements</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="#"><img src="https://img.icons8.com/clouds/100/000000/google-logo.png"/></a>
-        <br/>
-        Google Cybersecurity
-        <br/>
-        Professional Certificate
-      </td>
-      <td align="center">
-        <a href="#"><img src="https://img.icons8.com/clouds/100/000000/brain.png"/></a>
-        <br/>
-        Generative AI Foundations
-        <br/>
-        DeepLearning.AI
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interests Section -->
-<h2 align="center">🎯 Beyond The Code</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/🎹%20Piano-Composer-FF8000?style=for-the-badge&labelColor=black"/>
-  <img src="https://img.shields.io/badge/🎾%20Tennis-Player-FF8000?style=for-the-badge&labelColor=black"/>
-  <img src="https://img.shields.io/badge/🤖%20Robotics-Enthusiast-FF8000?style=for-the-badge&labelColor=black"/>
-</div>
-
-<!-- Social Links -->
-<h2 align="center">🤝 Let's Connect!</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="mailto:sujan21110114@snuchennai.edu.in">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-  </a>
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&fontSize=50&animation=fadeIn"/>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sujansanjeev/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
